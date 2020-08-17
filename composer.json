@@ -1,9 +1,9 @@
 {
-    "name": "flutterwave/rave-php-sdk",
+    "name": "danielthegeek/flutterwave-sdk",
     "description": "A simple SDK for integrating to Flutterwave's Rave payment",
     "type": "library",
     "keywords": ["rave", "flutterwave", "payment", "transfers", "africa"],
-    "homepage": "https://github.com/Flutterwave/Flutterwave-Rave-PHP-SDK",
+    "homepage": "https://github.com/DanielTheGeek/Flutterwave-PHP-v3",
     "autoload": {
         "psr-4": {
             "Flutterwave\\": "library/Rave"
